@@ -1,0 +1,61 @@
+complaint,category
+"The campus Wi-Fi disconnects every few minutes in the library",IT and Network Support
+"My phone connects to campus Wi-Fi but no websites will load",IT and Network Support
+"I cannot join the campus network because authentication keeps failing",IT and Network Support
+"The internet is very slow in the lecture hall",IT and Network Support
+"My laptop keeps dropping its connection to the campus network",IT and Network Support
+"The student portal rejects my password even after I reset it",Student Portal Issues
+"The course registration page stays blank after I sign in",Student Portal Issues
+"I cannot see my exam timetable on the student portal",Student Portal Issues
+"The portal shows an error when I try to update my profile",Student Portal Issues
+"My transcript page keeps loading and never opens",Student Portal Issues
+"I paid my tuition but my student account still says unpaid",Finance and Payment Issues
+"My school fees payment was charged twice",Finance and Payment Issues
+"The payment page showed an error after taking money from my account",Finance and Payment Issues
+"I was charged the wrong amount for semester fees",Finance and Payment Issues
+"My scholarship credit is missing from my account balance",Finance and Payment Issues
+"Water is leaking from the ceiling in my hostel bathroom",Hostel and Maintenance Issues
+"The door handle in my hostel room is broken",Hostel and Maintenance Issues
+"The window in my hostel room will not close",Hostel and Maintenance Issues
+"The sink in our shared bathroom is blocked",Hostel and Maintenance Issues
+"The bed frame in my room is damaged",Hostel and Maintenance Issues
+"There has been no electricity in our hostel block since this morning",Electricity and Utilities
+"The backup generator did not start during the power outage",Electricity and Utilities
+"The socket in my room sparks when I plug in a charger",Electricity and Utilities
+"The corridor lights on my floor are not working",Electricity and Utilities
+"The power supply in my building cuts out every evening",Electricity and Utilities
+"I lost my student ID card and want to know how to replace it",Other Complaints
+"Where do I collect a package delivered to campus reception",Other Complaints
+"What time does the campus library close",Other Complaints
+"How can I request a letter confirming my enrollment",Other Complaints
+"When is the next campus event scheduled",Other Complaints
+"Campus wireless keeps asking me to sign in again during lectures",IT and Network Support
+"The connection in the computer lab drops when I open online resources",IT and Network Support
+"University Wi-Fi says connected but cannot reach any website",IT and Network Support
+"The router near my building has no signal today",IT and Network Support
+"I keep getting an authentication error on the campus network",IT and Network Support
+"Self-service signs me out whenever I open my grades",Student Portal Issues
+"My registered courses are missing from the student dashboard",Student Portal Issues
+"The online portal will not let me download my fee statement",Student Portal Issues
+"Uploading a profile photo to the student website fails",Student Portal Issues
+"The results page returns a server error after I log in",Student Portal Issues
+"My bank transfer for tuition is missing from my account",Finance and Payment Issues
+"I need a receipt for the accommodation payment I made yesterday",Finance and Payment Issues
+"My account balance did not change after I paid the outstanding fees",Finance and Payment Issues
+"The student account lists the registration charge twice",Finance and Payment Issues
+"The payment site said failed but my bank still debited me",Finance and Payment Issues
+"A pipe below the washbasin in my dorm room is dripping",Hostel and Maintenance Issues
+"The wardrobe in my hostel room is broken",Hostel and Maintenance Issues
+"The hinge on my hostel bathroom door has come loose",Hostel and Maintenance Issues
+"There is a crack in the wall of my dorm room",Hostel and Maintenance Issues
+"The hostel shower drain is blocked",Hostel and Maintenance Issues
+"The lights in our hostel hallway have been out since yesterday",Electricity and Utilities
+"The switch in my room sparks when I turn on the light",Electricity and Utilities
+"The generator stopped and our hostel block lost power",Electricity and Utilities
+"The breaker trips when I turn on the room lights",Electricity and Utilities
+"There is no electricity in my room even though the next room has power",Electricity and Utilities
+"Please share the dates for the next student union programmes",Other Complaints
+"How do I join the campus photography club",Other Complaints
+"Where should I report a lost item from the cafeteria",Other Complaints
+"Is the campus bookstore open on Saturdays",Other Complaints
+"Can you explain how to register for the university shuttle",Other Complaints
